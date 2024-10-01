@@ -5,9 +5,11 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={react} className="react image" alt="react" />
+        <img src={logo} className="App-logo" alt="logo" />
         <p>
            Welcome to my react Application
+           Name:Tejas Balkunde
+           Roll No:42405
         </p>
         <a
           className="App-link"
