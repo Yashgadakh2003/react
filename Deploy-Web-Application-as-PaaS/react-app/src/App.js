@@ -8,8 +8,8 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
            Welcome to my react Application
-           Name:Tejas Balkunde
-           Roll No:42405
+           Name:Arti Patil
+           Roll No:42449
         </p>
         <a
           className="App-link"
